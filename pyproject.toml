@@ -7,6 +7,7 @@ dependencies = [
     "oooenv>=0.2.4",
     "openpyxl>=3.1.5",
     "pandas>=3.0.3",
+    "plotly>=6.8.0",
     "pyexcel>=0.7.4",
     "pyexcel-ods3>=0.6.1",
     "pyexcel-xlsx>=0.6.1",
